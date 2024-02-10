@@ -1,4 +1,4 @@
-# repassed From end
+# Repasando From End
 - 01: Desarrollo web
 - 02: react
 - 03: JavaScript
